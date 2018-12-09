@@ -1,0 +1,38 @@
+c:\users\ubdixso\documents\visual studio 2013\Projects\AlgorithmCompare\AlgorithmCompare\bin\Debug\AlgorithmCompare.exe.config
+c:\users\ubdixso\documents\visual studio 2013\Projects\AlgorithmCompare\AlgorithmCompare\bin\Debug\AlgorithmCompare.exe
+c:\users\ubdixso\documents\visual studio 2013\Projects\AlgorithmCompare\AlgorithmCompare\bin\Debug\AlgorithmCompare.pdb
+c:\users\ubdixso\documents\visual studio 2013\Projects\AlgorithmCompare\AlgorithmCompare\obj\Debug\AlgorithmCompare.csprojResolveAssemblyReference.cache
+c:\users\ubdixso\documents\visual studio 2013\Projects\AlgorithmCompare\AlgorithmCompare\obj\Debug\AlgorithmCompare.Properties.Resources.resources
+c:\users\ubdixso\documents\visual studio 2013\Projects\AlgorithmCompare\AlgorithmCompare\obj\Debug\AlgorithmCompare.csproj.GenerateResource.Cache
+c:\users\ubdixso\documents\visual studio 2013\Projects\AlgorithmCompare\AlgorithmCompare\obj\Debug\AlgorithmCompare.exe
+c:\users\ubdixso\documents\visual studio 2013\Projects\AlgorithmCompare\AlgorithmCompare\obj\Debug\AlgorithmCompare.pdb
+c:\users\ubdixso\documents\visual studio 2013\Projects\AlgorithmCompare\AlgorithmCompare\obj\Debug\AlgorithmCompare.MainView.resources
+Z:\ubdixso\Outbox\AlgorithmCompare\AlgorithmCompare\bin\Debug\AlgorithmCompare.exe.config
+Z:\ubdixso\Outbox\AlgorithmCompare\AlgorithmCompare\obj\Debug\AlgorithmCompare.exe
+Z:\ubdixso\Outbox\AlgorithmCompare\AlgorithmCompare\obj\Debug\AlgorithmCompare.pdb
+\\dtc\files\DASDSwap\ubdixso\Outbox\AlgorithmCompare\AlgorithmCompare\bin\Debug\AlgorithmCompare.exe.config
+\\dtc\files\DASDSwap\ubdixso\Outbox\AlgorithmCompare\AlgorithmCompare\obj\Debug\AlgorithmCompare.exe
+\\dtc\files\DASDSwap\ubdixso\Outbox\AlgorithmCompare\AlgorithmCompare\obj\Debug\AlgorithmCompare.pdb
+Z:\ubdixso\Outbox\AlgorithmCompare\AlgorithmCompare\bin\Debug\AlgorithmCompare.exe
+Z:\ubdixso\Outbox\AlgorithmCompare\AlgorithmCompare\obj\Debug\AlgorithmCompare.csprojResolveAssemblyReference.cache
+Z:\ubdixso\Outbox\AlgorithmCompare\AlgorithmCompare\obj\Debug\AlgorithmCompare.MainView.resources
+Z:\ubdixso\Outbox\AlgorithmCompare\AlgorithmCompare\obj\Debug\AlgorithmCompare.Properties.Resources.resources
+Z:\ubdixso\Outbox\AlgorithmCompare\AlgorithmCompare\obj\Debug\AlgorithmCompare.csproj.GenerateResource.Cache
+\\dtc\files\DASDSwap\ubdixso\Outbox\AlgorithmCompare\AlgorithmCompare\bin\Debug\AlgorithmCompare.exe
+\\dtc\files\DASDSwap\ubdixso\Outbox\AlgorithmCompare\AlgorithmCompare\bin\Debug\AlgorithmCompare.pdb
+\\dtc\files\DASDSwap\ubdixso\Outbox\AlgorithmCompare\AlgorithmCompare\obj\Debug\AlgorithmCompare.csprojResolveAssemblyReference.cache
+\\dtc\files\DASDSwap\ubdixso\Outbox\AlgorithmCompare\AlgorithmCompare\obj\Debug\AlgorithmCompare.MainView.resources
+\\dtc\files\DASDSwap\ubdixso\Outbox\AlgorithmCompare\AlgorithmCompare\obj\Debug\AlgorithmCompare.Properties.Resources.resources
+\\dtc\files\DASDSwap\ubdixso\Outbox\AlgorithmCompare\AlgorithmCompare\obj\Debug\AlgorithmCompare.csproj.GenerateResource.Cache
+\\dtc\files\DASDSwap\ubdixso\Outbox\AlgorithmCompare\AlgorithmCompare\bin\Debug\SortingLogic.dll
+\\dtc\files\DASDSwap\ubdixso\Outbox\AlgorithmCompare\AlgorithmCompare\bin\Debug\SortingLogic.pdb
+C:\Users\Brandon\Downloads\asdf\asdf\AlgorithmCompare\AlgorithmCompare\bin\Debug\AlgorithmCompare.exe.config
+C:\Users\Brandon\Downloads\asdf\asdf\AlgorithmCompare\AlgorithmCompare\bin\Debug\AlgorithmCompare.exe
+C:\Users\Brandon\Downloads\asdf\asdf\AlgorithmCompare\AlgorithmCompare\bin\Debug\AlgorithmCompare.pdb
+C:\Users\Brandon\Downloads\asdf\asdf\AlgorithmCompare\AlgorithmCompare\obj\Debug\AlgorithmCompare.csprojResolveAssemblyReference.cache
+C:\Users\Brandon\Downloads\asdf\asdf\AlgorithmCompare\AlgorithmCompare\obj\Debug\AlgorithmCompare.MainView.resources
+C:\Users\Brandon\Downloads\asdf\asdf\AlgorithmCompare\AlgorithmCompare\obj\Debug\AlgorithmCompare.Properties.Resources.resources
+C:\Users\Brandon\Downloads\asdf\asdf\AlgorithmCompare\AlgorithmCompare\obj\Debug\AlgorithmCompare.csproj.GenerateResource.cache
+C:\Users\Brandon\Downloads\asdf\asdf\AlgorithmCompare\AlgorithmCompare\obj\Debug\AlgorithmCompare.csproj.CoreCompileInputs.cache
+C:\Users\Brandon\Downloads\asdf\asdf\AlgorithmCompare\AlgorithmCompare\obj\Debug\AlgorithmCompare.exe
+C:\Users\Brandon\Downloads\asdf\asdf\AlgorithmCompare\AlgorithmCompare\obj\Debug\AlgorithmCompare.pdb

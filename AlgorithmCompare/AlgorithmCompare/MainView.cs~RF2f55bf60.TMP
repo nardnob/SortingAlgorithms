@@ -1,0 +1,114 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Text;
+using System.Windows.Forms;
+
+namespace AlgorithmCompare
+{
+    public partial class MainView : Form
+    {
+        private Random _rand = new Random();
+        private List<int> _unsortedNums = new List<int>();
+        private List<int> _sortedNums = new List<int>();
+
+        private const int DEFAULT_ITEMS = 1000;
+        private const int DEFAULT_BEGIN_RANGE = 0;
+        private const int DEFAULT_END_RANGE = 1000;
+
+        public MainView()
+        {
+            InitializeComponent();
+        }
+
+        private void MainView_Load(object sender, EventArgs e)
+        {
+            tstxtItems.Text = DEFAULT_ITEMS.ToString();
+            tstxtBeginRange.Text = DEFAULT_BEGIN_RANGE.ToString();
+            tstxtEndRange.Text = DEFAULT_END_RANGE.ToString();
+
+            GetAndPopulateList(DEFAULT_ITEMS, DEFAULT_BEGIN_RANGE, DEFAULT_END_RANGE);
+        }
+
+        private void GetAndPopulateList(int items, int beginRange, int endRange)
+        {
+            await GetList(items, beginRange, endRange);
+        }
+
+        private async void GetList(int items, int beginRange, int endRange)
+        {
+            var sb = new StringBuilder();
+            _unsortedNums.Clear();
+
+            for(int i = 0; i < items; i++)
+            {
+                var rand = _rand.Next(beginRange, endRange + 1);
+                
+                _unsortedNums.Add(rand);
+                sb.Append(rand.ToString() + "; ");
+            }
+
+            txtUnsortedNums.Text = sb.ToString();
+            txtSortedNums.Text = String.Empty;
+        }
+
+        private void tsbtnGetList_Click(object sender, EventArgs e)
+        {
+            int items, beginRange, endRange;
+
+            try
+            {
+                items = Convert.ToInt32(tstxtItems.Text);
+            }
+            catch(FormatException ex)
+            {
+                MessageBox.Show("Invalid number of items entered.", "Invalid Input");
+                return;
+            }
+            catch(Exception ex)
+            {
+                MessageBox.Show("Something happened.. Abandon ship!", "Exception");
+                return;
+            }
+
+            try
+            {
+                beginRange = Convert.ToInt32(tstxtBeginRange.Text);
+            }
+            catch(FormatException ex)
+            {
+                MessageBox.Show("Invalid begin range entered.", "Invalid Input");
+                return;
+            }
+            catch(Exception ex)
+            {
+                MessageBox.Show("Something happened.. Abandon ship!", "Exception");
+                return;
+            }
+
+            try
+            {
+                endRange = Convert.ToInt32(tstxtEndRange.Text);
+            }
+            catch(FormatException ex)
+            {
+                MessageBox.Show("Invalid end range entered.", "Invalid Input");
+                return;
+            }
+            catch(Exception ex)
+            {
+                MessageBox.Show("Something happened.. Abandon ship!", "Exception");
+                return;
+            }
+
+            try
+            {
+                GetAndPopulateList(items, beginRange, endRange);
+            }
+            catch(Exception ex)
+            {
+                MessageBox.Show("Something happened.. Abandon ship!", "Exception");
+                return;
+            }
+        }
+    }
+}
